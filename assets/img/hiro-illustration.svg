@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<svg id="illustration" width="352" height="370" viewBox="0 0 352 370" fill="none" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; max-height: 100%;">
+<path d="M9 2H113C125.703 2 136 12.2975 136 25V129H33C19.7452 129 9 118.255 9 105V2Z" stroke="#0F9D58" stroke-width="4" stroke-dasharray="0,0,0,487.8380126953125"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="3.125s" values="0,0,0,487.8380126953125; 
+          0,243.91900634765625,243.91900634765625,0; 
+          487.8380126953125,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M2 253C2 240.85 11.8497 231 24 231H215V263C215 287.853 194.853 308 170 308H2V253Z" stroke="#4285F4" stroke-width="4" stroke-dasharray="0,0,0,551.25830078125"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="3.125s" values="0,0,0,551.25830078125; 
+          0,275.629150390625,275.629150390625,0; 
+          551.25830078125,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<circle cx="300" cy="320" r="48.5" stroke="#DB4437" stroke-width="3" stroke-dasharray="0,0,0,304.24224853515625"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="3.125s" values="0,0,0,304.24224853515625; 
+          0,152.12112426757812,152.12112426757812,0; 
+          304.24224853515625,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></circle>
+<circle cx="266.5" cy="109.5" r="83" stroke="#F4B400" stroke-width="5" stroke-dasharray="0,0,0,520.6619262695312"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="3.125s" values="0,0,0,520.6619262695312; 
+          0,260.3309631347656,260.3309631347656,0; 
+          520.6619262695312,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></circle>
+<setting>{"type":"direct","speed":16,"random":1,"shift":1,"size":1,"rupture":50}</setting></svg>
